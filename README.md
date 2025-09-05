@@ -25,3 +25,4 @@ Currently, I'm building a portfolio of projects that demonstrate my ability to d
   
 ## 📫 **Let's Connect**
   - 📧 nahumvillanuevac@gmail.com
+  - www.linkedin.com/in/nahum-villanueva-1533a2382
