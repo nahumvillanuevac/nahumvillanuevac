@@ -19,8 +19,8 @@ Currently, I'm building a portfolio of projects that demonstrate my ability to d
 ## 🎯 **Current Roadmap**
   - ✅ Completed: AWS Educate foundational courses (Compute, Storage, Security, Serverless)
   - ✅ Completed: Hands-on projects with S3, EC2, IAM, CloudFront, Lambda, DynamoDB
-  - 🔄 In Progress: 3-Tier AWS architecture practice project
-  - 🎓 Upcoming: **AWS Certified Solutions Architect - Associate** (preparing for exam in the next months)
+  - ✅ Completed: 3-Tier AWS architecture practice project
+  - 🎓 In progress: **AWS Certified Solutions Architect - Associate** (preparing for exam in the next months)
 
   
 ## 📫 **Let's Connect**
